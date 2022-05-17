@@ -349,7 +349,7 @@ Sau khi giải nén LostInParis.rar, ta được file forensic.
 
 Sử dụng volatility, ta được các thông tin như sau:
 
-```jsx
+```
 └─$ vol.py -f forensic imageinfo
 Volatility Foundation Volatility Framework 2.6.1
 INFO    : volatility.debug    : Determining profile based on KDBG search...
