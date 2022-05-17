@@ -453,7 +453,7 @@ IL0VEFO			(?:1)
 ta có thể đoán được result đại khái là “il0veforensic”, nhưng chúng ta chưa phân biệt hoa thường. Thử code 1 đoạn c++ tạo ra các tổ hợp hoa thường như sau:
 
 ```cpp
-#include <iostreams>
+#include <bits/stdc++.h>
 using namespace std;
  
 // Function to generate permutations
